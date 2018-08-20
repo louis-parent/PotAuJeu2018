@@ -1,12 +1,12 @@
 Tic Tac Pow
 ===========
 
-This game is a no published subscription for the (Pot au Jeu Jam)[https://itch.io/jam/pot-au-jeu] 2018.
+This game is a no published subscription for the [Pot au Jeu Jam](https://itch.io/jam/pot-au-jeu) 2018.
 
 The game
 ========
 
-It's played like a (Tic Tac Toe)[https://en.wikipedia.org/wiki/Tic-tac-toe] but with larger grid and special cell.
+It's played like a [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) but with larger grid and special cell.
 
 There are 5 special cells :
 * Extra move : to place two mark in one turn (the second mark cannot activate another special cell)
@@ -19,4 +19,4 @@ There are 5 special cells :
 Download
 ========
 
-See the (itch.io)[https://appixroid.itch.io/tic-tac-pow] page for more information and dowload link.
+See the [itch.io](https://appixroid.itch.io/tic-tac-pow) page for more information and dowload link.
